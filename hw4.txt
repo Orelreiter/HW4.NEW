@@ -1,0 +1,6 @@
+1. We think it would have taken us much more time around 15 minutes. As we would need to open and search in each article separately, look for the needed word and then to count all the mentions of each word in total. 
+2. We can apply this bash script when a repetitive action is required. For instance in Elections, we can use this program as a way to calculate how many times each candidate got chosen by changing the "article links" to sheets in the program. Moreover, checking\searching stocks of a certain company in stock exchange website or so.
+We learnt that by using this bash script we can make our assignment much more easier and way faster than by doing so manually.
+3. If this action needs to take place every hour we need a watch/kind of a counter which would help us to know when to start the operation.
+It's possible to create a variable that will be used a kind of a watch but his size would be huge after a couple of hours, therefore it would take a lot of memory. Another way is to add a watch and to use it on our program. By doing so, it would be much more easier to compare and be aware that a hour has passed and our system would work automatically.
+In order to avoid searching the same articles we would use grep –v and delete the already readen articles.
